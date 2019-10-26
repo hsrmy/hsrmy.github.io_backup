@@ -20,6 +20,7 @@ paginate = 10
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "2006 Jan 02, 15:04"
+  custom_css = ["/css/custom.css"]
 
 [menu]
   # Shown in the side menu.
@@ -43,7 +44,7 @@ paginate = 10
     url = "/about/"
   [[menu.main]]
     name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
+    pre = "<i class='fas fa-envelope-open-text'></i>"
     weight = 4
     url = "/contact/"
 
