@@ -3,7 +3,7 @@ https://www.emradc.xyz のソース
 
 基本的には```source```ブランチで作業
 
-  1. ```hugo new post/(ファイル名).md```を実行すると、```content/post/(ファイル名).md```が作成されるので編集
+  1. ```hugo new post/(ファイル名).md```を実行すると、```content/post/(ファイル名).md```が作成されるので編集(```hugo new post/$(date "+%Y/%m/%m%d%H%M").md```で```content/post/年4桁/月2桁/月2桁日2桁時2桁分2桁.md```が生成)
   2. ```hugo server```を実行して、見た目などを確認
   3. ```hugo```を実行して、本番用ファイルの作成
   4. sourceブランチにcommit
