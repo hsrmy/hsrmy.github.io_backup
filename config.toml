@@ -16,7 +16,6 @@ paginate = 10
   subtitle = "備忘録代わりになればいいな..."
   brand = "ピロシキの備忘録"
   googleAnalytics = "UA-71953310-1"
-  disqus = "Your Disqus shortname"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "2006 Jan 02, 15:04"
