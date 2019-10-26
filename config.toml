@@ -3,7 +3,7 @@ languageCode = "ja-jp"
 title = "ピロシキの備忘録"
 theme = "blackburn"
 author = "hsrmy"
-copyright = "&copy; 2019. All rights reserved."
+copyright = "&copy; 2019 hsrmy All rights reserved."
 canonifyurls = true
 paginate = 10
 
@@ -14,12 +14,12 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "備忘録代わりになればいいな..."
-  brand = "Blackburn"
-  googleAnalytics = "Your Google Analytics tracking ID"
+  brand = "ピロシキの備忘録"
+  googleAnalytics = "UA-71953310-1"
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
-  dateFormat = "02 Jan 2006, 15:04"
+  dateFormat = "2006 Jan 02, 15:04"
 
 [menu]
   # Shown in the side menu.
@@ -50,5 +50,6 @@ paginate = 10
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
+  email = "hsrmy@emradc.xyz"
   twitter = "hsrmy_nm7"
   github = "hsrmy"
