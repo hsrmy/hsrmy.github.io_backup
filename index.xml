@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2019 hsrmy All rights reserved.</copyright>
-    <lastBuildDate>Sat, 26 Oct 2019 22:52:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2019 02:26:27 +0900</lastBuildDate>
     
 	<atom:link href="https://hsrmy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python＋Pillow＋NumPyの開発環境構築</title>
+      <link>https://hsrmy.github.io/post/2019/10/10270226/</link>
+      <pubDate>Sun, 27 Oct 2019 02:26:27 +0900</pubDate>
+      
+      <guid>https://hsrmy.github.io/post/2019/10/10270226/</guid>
+      <description>Python＋Pillow＋NumPyの開発環境を構築する手順の解説」と「画像を読み込んでPC画面に表示するコードと実行結果を示せ」という講義のレポートが出されたので、メモ代わりとして</description>
+    </item>
     
     <item>
       <title>Contact</title>
