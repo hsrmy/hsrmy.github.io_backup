@@ -19,7 +19,7 @@ paginate = 10
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "2006 Jan 02, 15:04"
-  custom_css = ["/css/custom.css"]
+  custom_css = ["/css/github-markdown.css", "/css/custom.css"]
 
 [menu]
   # Shown in the side menu.
